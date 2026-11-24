@@ -10,7 +10,7 @@
 
 - [Прогноз погоды](tasks/weather-quest.md) — индивидуальное тестовое задание: SPA на Vue 3,
   Vite, PrimeVue и Open-Meteo с маршрутизацией и обработкой ошибок. Ориентировочно 1–2 дня.
-- [Командный сайт на Vue 3 + Git + GitHub Actions + GitHub Pages](tasks/vue-team-git-ci.md) —
+- [Командный сайт на Vue 3 + Git + GitHub Actions + GitHub Pages](tasks_for_students/git-last-phase.md) —
   групповое задание: общий сайт с карточками участников, работа через ветки и Pull Request,
   CI и деплой на GitHub Pages.
 
